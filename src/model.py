@@ -1,5 +1,4 @@
-from datasets import load_dataset
+def get_model():
+    """CNN model"""
 
-ds = load_dataset("py97/UTKFace-Cropped")
-
-print(ds.head())
+    pass
